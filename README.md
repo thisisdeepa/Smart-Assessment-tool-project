@@ -41,7 +41,7 @@ To use the Smart Assessment Tool for Descriptive Answers:
 3. The system will convert the handwritten documents to text using OCR technology and proceed with the evaluation process.
 
 ## Flowchart
-![The following flowchart illustrates the algorithmic process:](https://github.com/thisisdeepa/image/blob/main/Screenshot%20(13).png)https://github.com/thisisdeepa/image/blob/main/Screenshot%20(13).png)
+![The following flowchart illustrates the algorithmic process:](https://github.com/thisisdeepa/image/blob/main/Screenshot%20(13).png)
 
 ## Acknowledgements
 This project makes use of various libraries and technologies, including NLTK, FuzzyWuzzy, and language_tool_python, to achieve its objectives. Special thanks to the contributors and developers of these tools.
