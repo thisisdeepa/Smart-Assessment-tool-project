@@ -18,10 +18,10 @@ The proposed methodology involves several key steps:
 
 6. Evaluation Factors: The evaluation process is based on four factors:
 
-  - Similarity Factor: Calculated using fuzzy logic and string matching techniques.
-  - Keyword Factor: Based on the presence and frequency of keywords.
-  - Grammar Factor: Checked using the language_tool_python library.
-  - Keyword Accuracy Factor: Evaluates the accuracy of identified keywords.
+    - Similarity Factor: Calculated using fuzzy logic and string matching techniques.
+    - Keyword Factor: Based on the presence and frequency of keywords.
+    - Grammar Factor: Checked using the language_tool_python library.
+    - Keyword Accuracy Factor: Evaluates the accuracy of identified keywords.
 
 ## Expected Outcome
 The expected outcome of this project is a system capable of automating the evaluation of handwritten subjective exam papers accurately and efficiently. It aims to provide a detailed report of the evaluation results, taking into consideration the factors mentioned above.
@@ -41,7 +41,7 @@ To use the Smart Assessment Tool for Descriptive Answers:
 3. The system will convert the handwritten documents to text using OCR technology and proceed with the evaluation process.
 
 ## Flowchart
-![The following flowchart illustrates the algorithmic process:]((https://github.com/thisisdeepa/image/blob/main/Screenshot%20(13).png)https://github.com/thisisdeepa/image/blob/main/Screenshot%20(13).png))
+![The following flowchart illustrates the algorithmic process:](https://github.com/thisisdeepa/image/blob/main/Screenshot%20(13).png)https://github.com/thisisdeepa/image/blob/main/Screenshot%20(13).png)
 
 ## Acknowledgements
 This project makes use of various libraries and technologies, including NLTK, FuzzyWuzzy, and language_tool_python, to achieve its objectives. Special thanks to the contributors and developers of these tools.
